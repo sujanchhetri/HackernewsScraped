@@ -1,0 +1,14 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "Scraping hackernews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujan Chhetri",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
